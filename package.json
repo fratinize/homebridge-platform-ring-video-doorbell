@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "doorbot": "^5.0.0",
-    "hap-nodejs-community-types": "https://github.com/homespun/hap-nodejs-community-types.git",
-    "homespun-discovery": "0.1.26",
+    "hap-nodejs-community-types": "git+https://github.com/homespun/hap-nodejs-community-types.git",
+    "homespun-discovery": "git+https://github.com/mkormendy/homespun-discovery.git",
     "underscore": "1.8.3"
   }
 }
